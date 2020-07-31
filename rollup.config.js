@@ -47,7 +47,7 @@ export default {
 				css.write('public/build/bundle.css');
 			},
 			preprocess: sveltePreprocess(),
-			customElement:false
+			customElement:true
 		}),
 
 		// If you have external dependencies installed from

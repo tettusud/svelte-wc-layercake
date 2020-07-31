@@ -1,7 +1,6 @@
 <script>
-	import { LayerCake, Html } from 'layercake';
   </script>
-  
+  <svelte:options tag="hello-world" immutable={true} />
   <style>
 	.chart-container {
 	  width: 100%;
@@ -10,9 +9,5 @@
   </style>
   
   <div class="chart-container">
-	<LayerCake>
-	  <Html zIndex={1}> <!-- Optional z-index -->
-		  Hello Layer cake
-	  </Html>
-	</LayerCake>
+	  Hello I am a web component
   </div>
