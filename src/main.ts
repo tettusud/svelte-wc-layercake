@@ -1,2 +1,9 @@
 import App from './App.wc.svelte';
-export default App;
+
+const app = new App({
+	target: document.body,
+	props: {
+
+	}
+});
+export default app;
