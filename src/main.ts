@@ -1,2 +1,2 @@
-import App from './App.svelte';
+import App from './App.wc.svelte';
 export default App;
