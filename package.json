@@ -14,7 +14,7 @@
     "@tsconfig/svelte": "^1.0.0",
     "@yelo/rollup-node-external": "^1.0.1",
     "d3-geo": "^1.12.1",
-    "layercake": "^3.1.1",
+    "layercake": "^7.0.0",
     "rollup": "^2.3.4",
     "rollup-plugin-livereload": "^1.0.0",
     "rollup-plugin-svelte": "^5.0.3",
